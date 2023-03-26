@@ -16,3 +16,7 @@ remove characters from a string except alphabets.
 combine two strings manually.
 find the largest and smallest words in a string. 
 count the number of punctuation characters present in a string.
+check whether a letter is lowercase or not.
+read a file and remove the spaces between two words of its content.
+split strings by space into words.
+find the repeated character in a string.
