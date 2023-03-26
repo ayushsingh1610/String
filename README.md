@@ -7,3 +7,10 @@ count the total number of words in a string.
 copy one string to another string.
 count the total number of vowels or consonants in a string. 
 find the maximum number of characters in a string.
+sort a string array in ascending order.
+read a sentence and replace lowercase characters with uppercase and vice versa.
+find the number of times a given word 'the' appears in the given string.
+extract a substring from a given string.
+check whether a substring is present in a string.
+remove characters from a string except alphabets.
+ combine two strings manually.
