@@ -15,3 +15,4 @@ check whether a substring is present in a string.
 remove characters from a string except alphabets.
 combine two strings manually.
 find the largest and smallest words in a string. 
+count the number of punctuation characters present in a string.
