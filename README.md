@@ -13,4 +13,5 @@ find the number of times a given word 'the' appears in the given string.
 extract a substring from a given string.
 check whether a substring is present in a string.
 remove characters from a string except alphabets.
- combine two strings manually.
+combine two strings manually.
+find the largest and smallest words in a string. 
